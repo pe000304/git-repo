@@ -1,3 +1,4 @@
 print("Hello world");
 print("Hello, my name Sergey");
 print("Hello, my name PC");
+print("Hello-advanced");
